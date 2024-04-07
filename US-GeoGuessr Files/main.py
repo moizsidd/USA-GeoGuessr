@@ -1,6 +1,5 @@
 import turtle
 import pandas
-import time
 screen = turtle.Screen()
 
 screen.title("USA GeoGuessr")
